@@ -19,10 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdanSultan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdanSultan&theme=dark)](https://github.com/AdanSultan)
 
----
-[![](https://visitcount.itsvg.in/api?id=AdanSultan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <picture>
